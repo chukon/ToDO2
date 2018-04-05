@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "453350844494",
+    "firebase_url": "https://todo2-e46e9.firebaseio.com",
+    "project_id": "todo2-e46e9",
+    "storage_bucket": "todo2-e46e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453350844494:android:7caa0a13b1339083",
+        "android_client_info": {
+          "package_name": "edu.rvc.student.todo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453350844494-ipes86bc26dm75s08572f3cs6on5cr3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rvc.student.todo2",
+            "certificate_hash": "74a04f4e4d2f3e260acd72a22b700643d757f85c"
+          }
+        },
+        {
+          "client_id": "453350844494-75s2jk610rqjln2n10bge9gluirg907g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4h0LMmY-JFmYs3kzt5Webf1YiD0KBSDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453350844494-75s2jk610rqjln2n10bge9gluirg907g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
